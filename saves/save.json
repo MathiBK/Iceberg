@@ -1,0 +1,29 @@
+{
+	"configData" : 
+	{
+		"screenHeight" : 900,
+		"screenWidth" : 1600
+	},
+	"gameSaveData" : 
+	{
+		"abilitiesConfigured" : 
+		{
+			"e" : "none",
+			"q" : "none",
+			"w" : "none"
+		},
+		"abilitiesUnlocked" : [],
+		"enemiesDefeated" : [],
+		"framerate" : 60,
+		"fullscreen" : 1,
+		"lvl" : 0,
+		"profileName" : "uninitialized",
+		"spawnPos" : 
+		[
+			85.0,
+			47.0
+		],
+		"usedLvls" : 1,
+		"xp" : 0
+	}
+}

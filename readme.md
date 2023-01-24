@@ -10,5 +10,6 @@ When planning the game, we wanted to make an effort to make failing feel less ba
 for the player, by giving them control over the difficulty by adding abilities gained
 from dying.
 
-![grappling](https://raw.githubusercontent.com/Kaexel/iceberg/main/media/grapplingSwing.PNG)
-![ui](https://raw.githubusercontent.com/Kaexel/iceberg/main/media/UIPicture.png)
+![grappling](https://raw.githubusercontent.com/MathiBK/iceberg/main/media/grapplingSwing.PNG)
+![ui](https://raw.githubusercontent.com/MathiBK/iceberg/main/media/UIPicture.png)
+
